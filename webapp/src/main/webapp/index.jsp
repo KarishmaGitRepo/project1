@@ -1,3 +1,5 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a Tomcat using Jenkins for John Deere </h2>
-<h2> Build triggered </h2>
+<html>
+<body>
+Hello v1. The time is <%= new java.util.Date().toString() %>.
+</body>
+</html>
